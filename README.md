@@ -36,7 +36,7 @@ The **Network Monitoring Tool** is a Linux-based application designed to monitor
 
 ### Navigate into the project directory:
  ```bash
-Cop code
+Copy code
 cd Network-Monitoring-Tool
 ```
 ### Install dependencies:
@@ -62,7 +62,7 @@ Contributing Guide: docs/contributing.md
 Contributing
 We welcome contributions! Please see the Contributing Guide for details on how to get started.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 yaml
