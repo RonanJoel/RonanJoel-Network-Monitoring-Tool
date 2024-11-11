@@ -36,12 +36,12 @@ The **Network Monitoring Tool** is a Linux-based application designed to monitor
 
 ### Navigate into the project directory:
  ```bash
-Copy code
+
 cd Network-Monitoring-Tool
 ```
 ### Install dependencies:
 ```bash
-Copy code
+
 # Assuming a Python-based project
 pip install -r requirements.txt
 ```
@@ -49,7 +49,7 @@ Usage
 Run the main script to start monitoring:
 
 ```bash
-Copy code
+
 python src/main.py
 ```
 ### Configuration
